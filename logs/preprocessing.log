@@ -26,3 +26,21 @@ Name: count, dtype: int64
 2026-07-30 12:49:50,847 | INFO | ======================================================================
 2026-07-30 12:49:50,847 | INFO | PREPROCESSING COMPLETED SUCCESSFULLY
 2026-07-30 12:49:50,847 | INFO | ======================================================================
+2026-08-18 12:44:05,941 | INFO | ======================================================================
+2026-08-18 12:44:05,941 | INFO | PREPROCESSING STARTED
+2026-08-18 12:44:05,941 | INFO | ======================================================================
+2026-08-18 12:44:08,183 | INFO | Dataset loaded successfully: (370100, 31)
+2026-08-18 12:44:08,204 | INFO | Total Missing Values: 0
+2026-08-18 12:44:09,289 | INFO | Duplicate Rows: 0
+2026-08-18 12:44:09,307 | INFO | Class Distribution:
+Class
+0    270100
+1    100000
+Name: count, dtype: int64
+2026-08-18 12:44:09,329 | INFO | Features and target separated.
+2026-08-18 12:44:09,592 | INFO | Train: 259070
+2026-08-18 12:44:09,592 | INFO | Validation: 37010
+2026-08-18 12:44:09,592 | INFO | Test: 74020
+2026-08-18 12:44:09,641 | INFO | Scaler fitted only on training data.
+2026-08-18 12:44:21,289 | INFO | Preprocessing completed successfully.
+2026-08-18 12:44:21,289 | INFO | Scaler fitted exclusively on training data.

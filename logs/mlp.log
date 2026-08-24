@@ -1,0 +1,43 @@
+2026-08-18 13:06:38,292 | INFO | MLP pipeline started
+2026-08-18 13:06:40,646 | INFO | Training samples: 259070
+2026-08-18 13:06:40,646 | INFO | Validation samples: 37010
+2026-08-18 13:06:40,646 | INFO | Testing samples: 74020
+2026-08-18 13:06:47,892 | INFO | Epoch=1, TrainLoss=0.093411, ValidLoss=0.025254
+2026-08-18 13:06:52,649 | INFO | Epoch=2, TrainLoss=0.025332, ValidLoss=0.015912
+2026-08-18 13:06:57,367 | INFO | Epoch=3, TrainLoss=0.018677, ValidLoss=0.010820
+2026-08-18 13:07:01,996 | INFO | Epoch=4, TrainLoss=0.014547, ValidLoss=0.008149
+2026-08-18 13:07:06,634 | INFO | Epoch=5, TrainLoss=0.012295, ValidLoss=0.007162
+2026-08-18 13:07:11,302 | INFO | Epoch=6, TrainLoss=0.010055, ValidLoss=0.005792
+2026-08-18 13:07:16,082 | INFO | Epoch=7, TrainLoss=0.009093, ValidLoss=0.004987
+2026-08-18 13:07:21,072 | INFO | Epoch=8, TrainLoss=0.008373, ValidLoss=0.004474
+2026-08-18 13:07:25,878 | INFO | Epoch=9, TrainLoss=0.007228, ValidLoss=0.003224
+2026-08-18 13:07:30,623 | INFO | Epoch=10, TrainLoss=0.006491, ValidLoss=0.004058
+2026-08-18 13:07:35,228 | INFO | Epoch=11, TrainLoss=0.006415, ValidLoss=0.002863
+2026-08-18 13:07:39,935 | INFO | Epoch=12, TrainLoss=0.005725, ValidLoss=0.003347
+2026-08-18 13:07:44,599 | INFO | Epoch=13, TrainLoss=0.005556, ValidLoss=0.002666
+2026-08-18 13:07:49,479 | INFO | Epoch=14, TrainLoss=0.004897, ValidLoss=0.002205
+2026-08-18 13:07:54,212 | INFO | Epoch=15, TrainLoss=0.004891, ValidLoss=0.002323
+2026-08-18 13:07:58,972 | INFO | Epoch=16, TrainLoss=0.004507, ValidLoss=0.002226
+2026-08-18 13:08:03,797 | INFO | Epoch=17, TrainLoss=0.004365, ValidLoss=0.002555
+2026-08-18 13:08:08,509 | INFO | Epoch=18, TrainLoss=0.004089, ValidLoss=0.002456
+2026-08-18 13:08:13,421 | INFO | Epoch=19, TrainLoss=0.004063, ValidLoss=0.001668
+2026-08-18 13:08:18,272 | INFO | Epoch=20, TrainLoss=0.003776, ValidLoss=0.001900
+2026-08-18 13:08:22,915 | INFO | Epoch=21, TrainLoss=0.003743, ValidLoss=0.002720
+2026-08-18 13:08:27,530 | INFO | Epoch=22, TrainLoss=0.003436, ValidLoss=0.001552
+2026-08-18 13:08:32,221 | INFO | Epoch=23, TrainLoss=0.003654, ValidLoss=0.001852
+2026-08-18 13:08:37,000 | INFO | Epoch=24, TrainLoss=0.003229, ValidLoss=0.001873
+2026-08-18 13:08:41,720 | INFO | Epoch=25, TrainLoss=0.003143, ValidLoss=0.001920
+2026-08-18 13:08:46,225 | INFO | Epoch=26, TrainLoss=0.003215, ValidLoss=0.001496
+2026-08-18 13:08:51,100 | INFO | Epoch=27, TrainLoss=0.003020, ValidLoss=0.001610
+2026-08-18 13:08:55,777 | INFO | Epoch=28, TrainLoss=0.002995, ValidLoss=0.001409
+2026-08-18 13:09:00,446 | INFO | Epoch=29, TrainLoss=0.002789, ValidLoss=0.001665
+2026-08-18 13:09:05,117 | INFO | Epoch=30, TrainLoss=0.002752, ValidLoss=0.001319
+2026-08-18 13:09:05,399 | INFO | Accuracy=0.999649
+2026-08-18 13:09:05,399 | INFO | Precision=0.998751
+2026-08-18 13:09:05,399 | INFO | Recall=0.999950
+2026-08-18 13:09:05,399 | INFO | F1=0.999350
+2026-08-18 13:09:05,399 | INFO | ROC_AUC=0.999992
+2026-08-18 13:09:05,399 | INFO | PR_AUC=0.999974
+2026-08-18 13:09:05,520 | INFO | Predictions saved to c:\Users\salik\OneDrive\Desktop\MP PWP-1\data\processed\mlp_test_predictions.csv
+2026-08-18 13:09:05,520 | INFO | Model saved to c:\Users\salik\OneDrive\Desktop\MP PWP-1\saved_models\mlp_model.pt
+2026-08-18 13:09:05,520 | INFO | MLP pipeline completed successfully

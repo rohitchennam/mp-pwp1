@@ -1,0 +1,24 @@
+2026-08-18 12:40:50,971 | INFO | ======================================================================
+2026-08-18 12:40:50,987 | INFO | XGBOOST PIPELINE STARTED
+2026-08-18 12:40:50,987 | INFO | ======================================================================
+2026-08-18 12:40:50,987 | INFO | Loading processed datasets
+2026-08-18 12:40:53,518 | INFO | Train=259070, Validation=37010, Test=74020
+2026-08-18 12:40:53,518 | INFO | XGBoost model created
+2026-08-18 12:40:53,518 | INFO | XGBoost training started
+2026-08-18 12:41:07,341 | INFO | XGBoost training completed
+2026-08-18 12:41:07,730 | INFO | Accuracy=0.999784, Precision=0.999350, Recall=0.999850, F1=0.999600, ROC_AUC=0.999992, PR_AUC=0.999975
+2026-08-18 12:41:07,874 | INFO | Predictions saved to c:\Users\salik\OneDrive\Desktop\MP PWP-1\data\processed\xgb_test_predictions.csv
+2026-08-18 12:41:07,895 | INFO | Model saved to c:\Users\salik\OneDrive\Desktop\MP PWP-1\saved_models\xgboost_model.pkl
+2026-08-18 12:41:07,895 | INFO | XGBoost pipeline completed successfully
+2026-08-18 12:45:10,126 | INFO | ======================================================================
+2026-08-18 12:45:10,126 | INFO | XGBOOST PIPELINE STARTED
+2026-08-18 12:45:10,126 | INFO | ======================================================================
+2026-08-18 12:45:10,126 | INFO | Loading processed datasets
+2026-08-18 12:45:12,500 | INFO | Train=259070, Validation=37010, Test=74020
+2026-08-18 12:45:12,500 | INFO | XGBoost model created
+2026-08-18 12:45:12,500 | INFO | XGBoost training started
+2026-08-18 12:45:26,131 | INFO | XGBoost training completed
+2026-08-18 12:45:26,503 | INFO | Accuracy=0.999838, Precision=0.999550, Recall=0.999850, F1=0.999700, ROC_AUC=0.999995, PR_AUC=0.999985
+2026-08-18 12:45:26,630 | INFO | Predictions saved to c:\Users\salik\OneDrive\Desktop\MP PWP-1\data\processed\xgb_test_predictions.csv
+2026-08-18 12:45:26,664 | INFO | Model saved to c:\Users\salik\OneDrive\Desktop\MP PWP-1\saved_models\xgboost_model.pkl
+2026-08-18 12:45:26,665 | INFO | XGBoost pipeline completed successfully
